@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there My name is German 👋
 
+<p>
+  I recently start to use GitHub 
+</p>
 <!--
 **Gerstan/Gerstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
